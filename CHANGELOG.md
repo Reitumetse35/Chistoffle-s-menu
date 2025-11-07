@@ -1,1 +1,17 @@
 
+Added
+- New payment screen for users.
+- Home screen navigation to menu.
+- Custom styling for the menu list.
+- - Menu list screen.
+- Splash screen for app start.
+Buttons to all screens 
+
+Fixed
+- Navigation error on startup.
+
+Changed
+- Updated app layout to use Stack Navigator.
+- Improved loading performance.
+  Initial release
+- Home screen only.
