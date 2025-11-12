@@ -6,3 +6,4 @@ he offers 3 course meal
 the home explains the dishes offered for the day and the prices of the dish 
 customize page allows user to add or remove dish 
 meunlist for user to edit the description,price and dish 
+
